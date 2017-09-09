@@ -1,0 +1,17 @@
+{
+    "name": "mgh/order",
+    "description": "A simple cache system",
+    "license": "Muhammad Ghazavi",
+    "authors": [
+        {
+            "name": "root",
+            "email": "mohammad.ghazavi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mgh\\Order\\": "src/"
+        }
+    },
+    "require": {}
+}
