@@ -1,3 +1,15 @@
+#Simple cache system with <a href='http://redis.io'>Redis</a> and search engine with <a href='https://www.algolia.com/'>Algolia</a>
+
+## Requirements
+<p>Redis, in-memory data structure store. </p>
+
+##Usage
+Step 1:
+php artisan migrate
+
+Step 2:
+php artisan db:seed
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
